@@ -2,16 +2,16 @@
 
 * Student name: **Barto Molina**
 * Student pace: **part time**
-* Scheduled project review date/time: **01/16/2020 2:00 PM (EST)**
+* Scheduled project review date/time: **01/18/2020 1:30 PM (EST)**
 * Instructor name: **Victor Geislinger**
-* Blog post URL: []()
+* Blog post URL: [Data resampling with Python](https://medium.com/@bartomolina/data-resampling-with-python-f69f505a6987?source=friends_link&sk=b874feb1f8c810e1c311a5c4bcc314e7)
 
 ## Deliverables
 
 - Kaggle Notebooks
 - [Presentation](presentation.pdf)
-- Blog post: []()
-- [Video walkthrough]()
+- Blog post: [Data resampling with Python](https://medium.com/@bartomolina/data-resampling-with-python-f69f505a6987?source=friends_link&sk=b874feb1f8c810e1c311a5c4bcc314e7)
+- [Video walkthrough](https://youtu.be/mGsoyZmAohE)
 
 ---
 
